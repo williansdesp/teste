@@ -1,3 +1,5 @@
+
+//comentario para a atividade git
 let listaGenerica = [];
 console.log(listaGenerica);
 
